@@ -1,0 +1,18 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100&family=Bebas+Neue&family=Caprasimo&family=Kaushan+Script&family=Playfair+Display&family=Roboto+Slab:wght@100&family=Vina+Sans&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Playfair Display', serif;
+  
+}
+
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* src/index.css */

@@ -1,0 +1,293 @@
+[
+    {
+      "id": 1,
+      "name": "Lentil Soup",
+      "photo": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGVudGlsJTIwc291cHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "publish_date": "2023-08-30",
+      "recipe": {
+        "title": "Simple Lentil Soup",
+        "ingredients": [
+          "1 cup dried green or brown lentils, rinsed and drained",
+          "1 onion, chopped",
+          "2 carrots, peeled and chopped",
+          "2 celery stalks, chopped",
+          "3 cloves garlic, minced",
+          "1 teaspoon ground cumin",
+          "1 teaspoon ground turmeric",
+          "1/2 teaspoon ground coriander",
+          "1/4 teaspoon red pepper flakes",
+          "6 cups vegetable or chicken broth",
+          "1 can (14 oz) diced tomatoes",
+          "1 bay leaf",
+          "Salt and pepper to taste",
+          "2 tablespoons olive oil",
+          "Fresh lemon juice (optional)",
+          "Chopped fresh cilantro or parsley for garnish"
+        ],
+        "instructions": [
+          "Heat olive oil in a large pot over medium heat. Add the chopped onion, carrots, and celery. Sauté until the vegetables begin to soften, about 5 minutes.",
+          "Add the minced garlic, ground cumin, turmeric, coriander, and red pepper flakes. Cook for an additional 1-2 minutes until the spices become fragrant.",
+          "Add the rinsed lentils, diced tomatoes (with their juices), bay leaf, and broth to the pot. Stir well to combine.",
+          "Bring the soup to a boil, then reduce the heat to low. Cover and let the soup simmer for about 20-25 minutes or until the lentils are tender.",
+          "Once the lentils are cooked, remove the bay leaf. Use an immersion blender to partially blend the soup, leaving some texture while thickening the base.",
+          "Season the soup with salt and pepper to taste. If desired, add a squeeze of fresh lemon juice for a bright flavor.",
+          "Serve the lentil soup hot, garnished with chopped cilantro or parsley."
+        ]
+      },
+      "description": "A hearty and nutritious lentil soup that's perfect for chilly days."
+    },
+    {
+      "id": 2,
+      "name": "Grilled Chicken",
+      "photo": "https://plus.unsplash.com/premium_photo-1661419883163-bb4df1c10109?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z3JpbGxlZCUyMGNoaWNrZW58ZW58MHx8MHx8fDA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "publish_date": "2023-08-30",
+      "recipe": {
+        "title": "Tender Grilled Chicken",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+          "2 tablespoons olive oil",
+          "2 cloves garlic, minced",
+          "1 teaspoon dried oregano",
+          "1 teaspoon paprika",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper",
+          "Lemon wedges for serving"
+        ],
+        "instructions": [
+          "In a bowl, mix together the olive oil, minced garlic, dried oregano, paprika, salt, and black pepper.",
+          "Add the chicken breasts to the marinade and coat them well. Let the chicken marinate for at least 30 minutes.",
+          "Preheat the grill to medium-high heat.",
+          "Remove the chicken from the marinade and grill for about 6-7 minutes on each side, or until the internal temperature reaches 165°F (75°C) and the chicken is cooked through.",
+          "Remove the chicken from the grill and let it rest for a few minutes before serving.",
+          "Serve the grilled chicken with lemon wedges for squeezing over the top."
+        ]
+      },
+      "description": "Tender and flavorful grilled chicken marinated in herbs and spices."
+    },
+    {
+      "id": 3,
+      "name": "Sautéed Mushrooms",
+      "photo": "https://media.istockphoto.com/id/817313114/tr/foto%C4%9Fraf/kopya-alan%C4%B1-ile-tavada-mantar-s%C4%B1%C4%9F%C4%B1r-straganof.jpg?s=612x612&w=0&k=20&c=F7KNeE1c5rDGZsGEcv0WOgl8oMFcOhGzob88-RIsEU8=",
+      "publish_date": "2023-08-30",
+      "recipe": {
+        "title": "Garlic Butter Sautéed Mushrooms",
+        "ingredients": [
+          "1 pound mushrooms, cleaned and sliced",
+          "2 tablespoons butter",
+          "2 cloves garlic, minced",
+          "1 tablespoon olive oil",
+          "Salt and pepper to taste",
+          "Fresh parsley, chopped, for garnish"
+        ],
+        "instructions": [
+          "In a large skillet, heat the butter and olive oil over medium heat.",
+          "Add the minced garlic and sauté for about 1 minute until fragrant.",
+          "Add the sliced mushrooms to the skillet. Sauté the mushrooms for 5-7 minutes, or until they are tender and browned.",
+          "Season the mushrooms with salt and pepper to taste.",
+          "Remove the skillet from the heat and garnish with chopped fresh parsley.",
+          "Serve the sautéed mushrooms as a delicious side dish."
+        ]
+      },
+      "description": "Delicious mushrooms sautéed with garlic and butter, a perfect side dish."
+    },
+    {
+      "id": 4,
+      "name": "Spaghetti Carbonara",
+      "photo": "https://images.unsplash.com/photo-1516100882582-96c3a05fe590?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fFNwYWdoZXR0aSUyMENhcmJvbmFyYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "publish_date": "2023-08-30",
+      "recipe": {
+        "title": "Classic Spaghetti Carbonara",
+        "ingredients": [
+          "12 ounces (340g) spaghetti",
+          "4 ounces (115g) pancetta or guanciale, diced",
+          "2 large eggs",
+          "1 cup grated Pecorino Romano cheese",
+          "1 teaspoon freshly ground black pepper",
+          "Salt to taste",
+          "2 tablespoons olive oil",
+          "2 cloves garlic, minced",
+          "Fresh parsley, chopped, for garnish"
+        ],
+        "instructions": [
+          "Bring a large pot of salted water to a boil. Cook the spaghetti according to the package instructions until al dente. Reserve about 1 cup of pasta cooking water before draining.",
+          "In a large skillet, heat the olive oil over medium heat. Add the diced pancetta or guanciale and sauté until crispy and golden. Add the minced garlic and cook for an additional 1 minute.",
+          "In a bowl, whisk together the eggs, grated Pecorino Romano cheese, and freshly ground black pepper.",
+          "Add the cooked pasta to the skillet with the pancetta. Toss to combine and heat for about 1 minute.",
+          "Remove the skillet from the heat. Quickly pour the egg and cheese mixture over the pasta and toss vigorously to coat the pasta in the creamy sauce. If needed, add a splash of reserved pasta cooking water to create a silky sauce.",
+          "Season with salt to taste and garnish with chopped fresh parsley.",
+          "Serve the spaghetti carbonara immediately, topped with additional grated Pecorino Romano cheese if desired."
+        ]
+      },
+      "description": "Classic Italian pasta dish with creamy egg-based sauce and pancetta."
+    },
+    {
+      "id": 5,
+      "name": "Caesar Salad",
+      "photo":  "https://images.unsplash.com/photo-1599021419847-d8a7a6aba5b4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fENhZXNhciUyMFNhbGFkfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "publish_date": "2023-08-30",
+      "recipe": {
+        "title": "Classic Caesar Salad",
+        "ingredients": [
+          "1 head romaine lettuce, washed and torn into bite-sized pieces",
+          "1 cup croutons",
+          "1/4 cup grated Parmesan cheese",
+          "1/4 cup Caesar dressing",
+          "1 lemon, cut into wedges"
+        ],
+        "instructions": [
+          "In a large bowl, combine the torn romaine lettuce and croutons.",
+          "Drizzle the Caesar dressing over the salad and toss to coat the ingredients.",
+          "Sprinkle the grated Parmesan cheese on top.",
+          "Serve the Caesar salad with lemon wedges for squeezing."
+        ]
+      },
+      "description": "Crisp romaine lettuce, croutons, and tangy Caesar dressing topped with Parmesan."
+    },
+    {
+      "id": 6,
+      "name": "Homemade Pizza",
+      "photo": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8SG9tZW1hZGUlMjBQaXp6YXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "publish_date": "2023-08-30",
+      "recipe": {
+        "title": "Classic Homemade Pizza",
+        "ingredients": [
+          "1 pizza dough, store-bought or homemade",
+          "1/2 cup pizza sauce",
+          "1 1/2 cups shredded mozzarella cheese",
+          "Your favorite pizza toppings (e.g., pepperoni, mushrooms, bell peppers)",
+          "1 tablespoon olive oil",
+          "1 teaspoon dried oregano",
+          "1/2 teaspoon garlic powder"
+        ],
+        "instructions": [
+          "Preheat the oven according to the pizza dough instructions.",
+          "Roll out the pizza dough on a floured surface to your desired thickness.",
+          "Spread the pizza sauce evenly over the dough, leaving a border around the edges.",
+          "Sprinkle the shredded mozzarella cheese over the sauce.",
+          "Add your favorite pizza toppings.",
+          "Drizzle olive oil over the toppings and sprinkle with dried oregano and garlic powder.",
+          "Bake the pizza in the preheated oven until the crust is golden and the cheese is melted and bubbly.",
+          "Slice and serve the homemade pizza."
+        ]
+      },
+      "description": "Make your own pizza with your favorite toppings and melty cheese."
+    },
+    {
+      "id": 7,
+      "name": "Chocolate Brownies",
+      "photo":  "https://images.unsplash.com/photo-1612886623532-1802833fcc67?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Q2hvY29sYXRlJTIwQnJvd25pZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "publish_date": "2023-08-30",
+      "recipe": {
+        "title": "Decadent Chocolate Brownies",
+        "ingredients": [
+          "1/2 cup unsalted butter",
+          "1 cup granulated sugar",
+          "2 large eggs",
+          "1 teaspoon vanilla extract",
+          "1/3 cup unsweetened cocoa powder",
+          "1/2 cup all-purpose flour",
+          "1/4 teaspoon salt",
+          "1/4 teaspoon baking powder",
+          "1/2 cup chocolate chips",
+          "1/2 cup chopped nuts (optional)"
+        ],
+        "instructions": [
+          "Preheat the oven to 350°F (175°C) and grease a baking pan.",
+          "In a saucepan, melt the butter over low heat. Remove from heat and stir in the sugar.",
+          "Beat in the eggs and vanilla extract.",
+          "In a separate bowl, whisk together the cocoa powder, flour, salt, and baking powder.",
+          "Gradually add the dry ingredients to the wet ingredients, mixing until just combined.",
+          "Fold in the chocolate chips and chopped nuts, if using.",
+          "Pour the batter into the prepared baking pan and spread it evenly.",
+          "Bake in the preheated oven for 20-25 minutes, or until a toothpick inserted into the center comes out with a few moist crumbs.",
+          "Allow the brownies to cool before cutting into squares."
+        ]
+      },
+      "description": "Rich and fudgy chocolate brownies, perfect with a scoop of ice cream."
+    },
+    {
+      "id": 8,
+      "name": "Vegetable Stir-Fry",
+      "photo":  "https://images.unsplash.com/photo-1516901121982-4ba280115a36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8VmVnZXRhYmxlJTIwU3RpciUyMEZyeXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "publish_date": "2023-08-30",
+      "recipe": {
+        "title": "Colorful Vegetable Stir-Fry",
+        "ingredients": [
+          "2 cups mixed vegetables (e.g., bell peppers, broccoli, carrots, snap peas)",
+          "2 tablespoons vegetable oil",
+          "2 cloves garlic, minced",
+          "1 teaspoon grated ginger",
+          "1/4 cup soy sauce",
+          "1 tablespoon oyster sauce",
+          "1 teaspoon sesame oil",
+          "1 teaspoon cornstarch (optional, for thickening)",
+          "Cooked rice or noodles, for serving"
+        ],
+        "instructions": [
+          "Heat the vegetable oil in a wok or large skillet over high heat.",
+          "Add the minced garlic and grated ginger. Stir-fry for a few seconds until fragrant.",
+          "Add the mixed vegetables to the wok and stir-fry for 3-5 minutes, or until they are crisp-tender.",
+          "In a small bowl, whisk together the soy sauce, oyster sauce, and sesame oil.",
+          "Pour the sauce over the vegetables and toss to coat.",
+          "If desired, mix the cornstarch with a little water to create a slurry, then add it to the stir-fry to thicken the sauce.",
+          "Serve the vegetable stir-fry over cooked rice or noodles."
+        ]
+      },
+      "description": "Colorful mix of fresh vegetables stir-fried to perfection in a savory sauce."
+    },
+    {
+      "id": 9,
+      "name": "Berry Smoothie",
+      "photo": "https://images.unsplash.com/photo-1508869901315-49c557f3969d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8JTIyQmVycnklMjBTbW9vdGhpZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "publish_date": "2023-08-30",
+      "recipe": {
+        "title": "Mixed Berry Smoothie",
+        "ingredients": [
+          "1 cup mixed berries (e.g., strawberries, blueberries, raspberries)",
+          "1 banana, peeled and sliced",
+          "1/2 cup plain yogurt",
+          "1/2 cup milk (dairy or plant-based)",
+          "1 tablespoon honey",
+          "Ice cubes"
+        ],
+        "instructions": [
+          "Place the mixed berries, banana, yogurt, milk, and honey in a blender.",
+          "Blend until smooth and creamy.",
+          "Add ice cubes and blend again until the smoothie reaches your desired consistency.",
+          "Pour the berry smoothie into glasses and serve immediately."
+        ]
+      },
+      "description": "A refreshing blend of mixed berries, yogurt, and a touch of honey."
+    },
+    {
+      "id": 10,
+      "name": "Grilled Salmon",
+      "photo":"https://plus.unsplash.com/premium_photo-1664472670740-76504463a146?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fEdyaWxsZWQlMjBTYWxtb258ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "publish_date": "2023-08-30",
+      "recipe": {
+        "title": "Herb-Seasoned Grilled Salmon",
+        "ingredients": [
+          "4 salmon fillets",
+          "2 tablespoons olive oil",
+          "2 cloves garlic, minced",
+          "1 teaspoon dried thyme",
+          "1 teaspoon dried rosemary",
+          "1 teaspoon dried oregano",
+          "Zest of 1 lemon",
+          "Juice of 1 lemon",
+          "Salt and pepper to taste",
+          "Fresh lemon slices for garnish"
+        ],
+        "instructions": [
+          "Preheat the grill to medium-high heat.",
+          "In a small bowl, whisk together the olive oil, minced garlic, dried thyme, dried rosemary, dried oregano, lemon zest, lemon juice, salt, and pepper.",
+          "Place the salmon fillets in a dish and pour the marinade over them. Make sure the fillets are evenly coated. Let them marinate for about 15-30 minutes.",
+          "Remove the salmon from the marinade and grill for about 4-5 minutes on each side, or until the salmon flakes easily with a fork.",
+          "During the last few minutes of grilling, you can place lemon slices on top of the salmon for added flavor and garnish.",
+          "Remove the grilled salmon from the grill and serve it with additional lemon slices.",
+          "Enjoy the flaky and succulent grilled salmon with your favorite sides!"
+        ]
+      }
+    
+    }
+  ]
